@@ -1,0 +1,2 @@
+# Blank issues stay enabled so issues created from the CLI with a body still work.
+blank_issues_enabled: true
